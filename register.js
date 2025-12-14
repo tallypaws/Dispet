@@ -1,5 +1,5 @@
 const { SlashCommandBuilder, REST, Routes } = require('discord.js');
-const { token, clientId, guildId } = require('./config.json');
+const { token, clientId, guildId } = require('/home/tally/dispet/config.json');
 
 const commands = [
 

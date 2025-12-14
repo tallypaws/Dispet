@@ -3,5 +3,24 @@
     "better-sqlite3": "^12.2.0",
     "canvas": "^3.2.0",
     "discord.js": "^14.22.1"
-  }
+  },
+  "name": "dispet",
+  "version": "1.0.0",
+  "description": "### Discord bot written in discord.js that allows you to adopt custom server emojis as pets, complete with custom collectible card generation",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallypaws/Dispet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallypaws/Dispet/issues"
+  },
+  "homepage": "https://github.com/tallypaws/Dispet#readme"
 }

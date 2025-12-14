@@ -1,5 +1,5 @@
 const { Client, Events, GatewayIntentBits, EmbedBuilder } = require('discord.js');
-const { token } = require('./config.json');
+const { token } = require('./d/config.json');
 const commands = require('./commands.js');
 const database = require('./database.js');
 const { simpleEmbed } = require('./utils.js');
